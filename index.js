@@ -19,7 +19,7 @@ app.get('/',(req , res)=>{
 });
 
 //const CONNECTION_URL = '<database url>';
-const PORT = process.env.PORT|| 3001;
+const PORT = process.env.PORT|| 3000;
 
 mongoose.connect(process.env.CONNECTION_URL, { useNewUrlParser: true, useUnifiedTopology: true })
   .then(() => app.listen(PORT, () => console.log('Server Running on Port:',{PORT})))
