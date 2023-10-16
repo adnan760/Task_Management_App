@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const baseUrl = 'http://localhost:3000/'
+const baseUrl = 'https://task-management-server-j559.onrender.com/'
 
 export default {
     postMessage(url = baseUrl +'postsMessages/')
