@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const baseUrl = 'https://post-center-project.herokuapp.com/'
+const baseUrl = 'http://localhost:3000/'
 
 export default {
     postMessage(url = baseUrl +'postsMessages/')

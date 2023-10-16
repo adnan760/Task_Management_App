@@ -13,7 +13,7 @@ function App() {
             variant="h3"
             align="center"
           >
-            Post Center
+            Task Center
           </Typography>
         </AppBar>
         <PostMessages />

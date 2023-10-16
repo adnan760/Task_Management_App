@@ -77,7 +77,7 @@ const PostMessageForm = ({ classes, ...props }) => {
             <TextField
                 name="author"
                 variant="outlined"
-                label="Name"
+                label="Deadline (If applicable)"
                 fullWidth
                 value={values.author}
                 onChange={handleInputChange}
@@ -95,7 +95,7 @@ const PostMessageForm = ({ classes, ...props }) => {
             <TextField
                 name="message"
                 variant="outlined"
-                label="Message"
+                label="Context"
                 fullWidth
                 multiline
                 rows={4}
