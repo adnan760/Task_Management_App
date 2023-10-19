@@ -16,6 +16,6 @@ The Task Management Application is a web-based application developed using the M
 
 ## Access the Web App
 
-Click [here](https://task-management-app-50.netlify.app/) to access the Task Management Application and start managing your tasks efficiently!
+Check out the Task Management App: [Link](https://task-management-app-50.netlify.app/)
 
 
