@@ -1,4 +1,6 @@
-![Task_Management_App](https://socialify.git.ci/adnan760/Task_Management_App/image?description=1&font=Rokkitt&logo=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-256%2Fproject-management-2076268-1756548.png&name=1&pattern=Charlie%20Brown&theme=Auto)
+<!--  ![Task_Management_App](https://socialify.git.ci/adnan760/Task_Management_App/image?description=1&font=Rokkitt&logo=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-256%2Fproject-management-2076268-1756548.png&name=1&pattern=Charlie%20Brown&theme=Auto)   -->
+
+# Task Management App
 
 ## Description
 
